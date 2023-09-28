@@ -1,2 +1,2 @@
 # IFG
-Esses são meus trabalhos feitos durante o curso de Análise e Desenvolvimento de Sistemas na disciplina de Estrutura de Dados I.
+Esses são meus projetos e trabalhos feitos durante o curso de Análise e Desenvolvimento de Sistemas.
