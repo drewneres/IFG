@@ -7,6 +7,7 @@ Esses são meus projetos e trabalhos feitos durante o curso de Análise e Desenv
 
 - HTML
 - CSS
+- C
 - JavaScript
 - Python
 - Git and Github
